@@ -26,4 +26,6 @@ int main()
 {
     manusia budi;
     pelajar pbudi;
-    
+    budi.showNilaiPelajar(pbudi);
+    return 0;
+}
